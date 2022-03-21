@@ -1,0 +1,21 @@
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\bin\Debug\net6.0\.NET 6 WEB API.exe
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\bin\Debug\net6.0\.NET 6 WEB API.deps.json
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\bin\Debug\net6.0\.NET 6 WEB API.runtimeconfig.json
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\bin\Debug\net6.0\.NET 6 WEB API.dll
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\bin\Debug\net6.0\.NET 6 WEB API.pdb
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.csproj.AssemblyReference.cache
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.AssemblyInfoInputs.cache
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.AssemblyInfo.cs
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.csproj.CoreCompileInputs.cache
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\scopedcss\bundle\.NET 6 WEB API.styles.css
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.dll
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\refint\.NET 6 WEB API.dll
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.pdb
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\.NET 6 WEB API.genruntimeconfig.cache
+C:\Users\lucas.pasin\LucasProjects\.NET 6 WEB API\obj\Debug\net6.0\ref\.NET 6 WEB API.dll

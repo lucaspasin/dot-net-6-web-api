@@ -1,15 +1,10 @@
 public static class ProductRepository
 {
-    public static List<Product> Products { get; set; }
+    public static List<Product> Products { get; set; } = new List<Product>();
 
     public static void Add(Product product)
     {
-        if (Products == null)
-        {
-            Products = new List<Product>();
-
-            Products.Add(product);
-        }
+        Products.Add(product);
     }
 
     public static Product GetBy(string code)

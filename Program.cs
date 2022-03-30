@@ -21,14 +21,14 @@ app.MapPut("/product", (Product product) =>
 {
     var productSaved = ProductRepository.GetBy(product.Code);
     productSaved.Name = product.Name;
-    return Results.Ok;
+    return Results.Ok();
 });
 
 app.MapDelete("/product/{code}", ([FromRoute] string code) =>
 {
     var productSaved = ProductRepository.GetBy(code);
     ProductRepository.Remove(productSaved);
-    return Results.Ok;
+    return Results.Ok();
 });
 
 app.Run();
